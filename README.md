@@ -1,6 +1,6 @@
-# Ganchômetro: O Teu Rastreador de Partidas de Dead by Daylight
+# Ganchômetro: Gere Estatísticas de Partidas de Dead by Daylight
 
-Bem-vinda ao Ganchômetro! Esta é uma aplicação de desktop desenvolvida para te ajudar a registar, acompanhar e analisar as tuas estatísticas individuais de partidas do jogo Dead by Daylight.
+Bem-vindo(a) ao Ganchômetro! Esta é uma aplicação de desktop desenvolvida para te ajudar a registar, acompanhar e analisar as tuas estatísticas individuais de partidas do jogo Dead by Daylight.
 
 ## Funcionalidades Principais
 
@@ -41,7 +41,7 @@ Bem-vinda ao Ganchômetro! Esta é uma aplicação de desktop desenvolvida para 
 
 1.  **Executar a Aplicação:**
     * Se tiveres o Python instalado, podes executar o script principal.
-    * Ou, se disponível, utiliza o ficheiro `.exe` fornecido para executar a aplicação diretamente no Windows.
+    * Ou, utiliza o ficheiro `.exe` fornecido para executar a aplicação diretamente no Windows.
 2.  **Registar Partidas:** Navega até à aba "Registrar Partida" e preenche os detalhes de cada partida após jogares.
 3.  **Consultar Histórico e Estatísticas:** As abas "Histórico" e "Estatísticas" serão atualizadas automaticamente ou através do botão "Atualizar".
 
@@ -56,9 +56,5 @@ Podes instalar as dependências com:
 `pip install customtkinter Pillow matplotlib`
 
 ## Contribuições
-
-Este projeto foi feito por @brina-chan. Feedback e sugestões são bem-vindos!
-
----
 
 *Ícones de personagens e outros elementos visuais são propriedade da Behaviour Interactive.*
