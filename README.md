@@ -42,8 +42,16 @@ Bem-vindo(a) ao Ganchômetro! Esta é uma aplicação de desktop desenvolvida pa
 1.  **Executar a Aplicação:**
     * Se tiveres o Python instalado, podes executar o script principal.
     * Ou, utiliza o ficheiro `.exe` fornecido para executar a aplicação diretamente no Windows.
-2.  **Registar Partidas:** Navega até à aba "Registrar Partida" e preenche os detalhes de cada partida após jogares.
-3.  **Consultar Histórico e Estatísticas:** As abas "Histórico" e "Estatísticas" serão atualizadas automaticamente ou através do botão "Atualizar".
+2.  ## Como Baixar e Executar o .exe (Windows)
+3.  **Baixe a Versão Mais Recente:**
+    * **[CLIQUE AQUI para baixar o Ganchometro.exe (v1.0.0)](https://github.com/brina-chan/Ganchometro/releases/download/V1.0.0/Ganchometro.exe)**
+4.  **Execute a Aplicação:**
+    * Após o download, vá para a pasta onde você salvou o arquivo `Ganchometro.exe`.
+    * Dê um duplo clique no arquivo `.exe` para iniciar o Ganchômetro.
+    * **Nota:** Na primeira vez que você executar, o Windows ou seu antivírus podem mostrar um aviso de segurança porque o arquivo foi baixado da internet e não é de um editor "conhecido". Geralmente, você pode clicar em "Mais informações" e depois em "Executar mesmo assim" (ou opções semelhantes).
+    * O banco de dados será criado automaticamente no mesmo diretório do `.exe` na primeira vez que o programa for executado.
+
+Divirta-se registrando suas partidas!
 
 ## Requisitos (para executar a partir do código fonte)
 
