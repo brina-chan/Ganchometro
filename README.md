@@ -1,4 +1,4 @@
-# Ganchômetro: Gere Estatísticas de Partidas de Dead by Daylight
+# Ganchômetro: Estatísticas de Partidas de Dead by Daylight
 
 Bem-vindo(a) ao Ganchômetro! Esta é uma aplicação de desktop desenvolvida para te ajudar a registar, acompanhar e analisar as tuas estatísticas individuais de partidas do jogo Dead by Daylight.
 
