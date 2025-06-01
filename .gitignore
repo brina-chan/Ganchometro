@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+*.env
+.env.*
+dist/
+build/
+*.spec
+
+# Banco de dados local
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+ganc*log.txt 
+
+# IDEs e ficheiros específicos do S.O.
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
